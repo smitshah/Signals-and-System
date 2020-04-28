@@ -1,10 +1,4 @@
-%% Expriment No: 2
-
-%{
-     Name: Smit Shah
-     PRN: 17070123090
-     Batch: EB-2
-%}
+%% CT_signal
 
 clc
 clear all
