@@ -1,10 +1,4 @@
-%% Experiment No: 7
-
-%{
-    Name: Smit Shah
-    PRN: 17070123090
-    Batch: EB-2
-%}
+%% system_classification
 
 clc
 clear all
