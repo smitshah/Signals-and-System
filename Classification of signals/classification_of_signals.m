@@ -1,10 +1,4 @@
-%% Experiment No: 5
-
-%{
-     Name: Smit Shah
-     PRN: 17070123090
-     Batch: EB-2
-%}
+%% classification_of_signals
 
 clc
 clear all
