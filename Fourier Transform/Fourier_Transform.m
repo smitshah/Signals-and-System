@@ -1,10 +1,4 @@
-%% Experiment No: 11
-
-%{
-    Name: Smit Shah
-    PRN: 17070123090
-    Batch: EB-2
-%}
+%% Fourier Transform
 
 clc
 clear all
