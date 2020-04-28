@@ -1,10 +1,4 @@
-%% Experiment no.4
-
-%{
-     Name: Smit Shah
-     PRN:- 17070123090
-     Batch:- EB-2
-%}
+%% operation_on_signal
 
 clc
 clear all
