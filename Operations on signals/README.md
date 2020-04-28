@@ -1,4 +1,3 @@
-# Experiment No.-4
 ## Operations on signals
 
 **Q1. Perform the following tasks with graph:-**
