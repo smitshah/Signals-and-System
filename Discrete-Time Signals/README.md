@@ -1,4 +1,3 @@
-# Experiment No.-2
 ## Generation of Elementary Discrete-Time Signals
 
 **Q. Plot the following Elementary Continuous-Time signals in MATLAB.**
