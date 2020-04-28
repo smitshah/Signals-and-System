@@ -1,10 +1,4 @@
-%% Experiment No: 8
-
-%{
-    Name: Smit Shah
-    PRN: 17070123090
-    Batch: EB-2
-%}
+%% Convolution_Sum
 
 clc
 clear all
