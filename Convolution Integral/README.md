@@ -7,10 +7,10 @@
      = 0, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
 ```
 
-for the input
+**for the input**
 ```
 ⁡⁡𝑥(𝑡) = 1, 0 ≤ 𝑡 ≤ 3
      = 0, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
 ```
 
-with and without using inbuilt MATLAB function.
+**with and without using inbuilt MATLAB function.**
