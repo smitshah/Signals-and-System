@@ -1,10 +1,5 @@
-%% Experiment No: 10
+%% Fourier_Series
 
-%{
-    Name: Smit Shah
-    PRN: 17070123090
-    Batch: EB-2
-%}
 
 clc
 clear all
